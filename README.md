@@ -1,33 +1,38 @@
-📊 Imersão de Dados Alura – Análise com Python
-Este repositório contém os notebooks e materiais desenvolvidos durante a Imersão de Dados da Alura. O projeto abrange desde a exploração inicial dos dados até a criação de um dashboard interativo, utilizando ferramentas do ecossistema Python.
+# 📊 Imersão Alura Dados - Python
 
-🧠 Objetivo
-Aplicar técnicas de análise de dados com Python para extrair insights significativos de um conjunto de dados, passando por:
+Este repositório contém o projeto desenvolvido durante a **Imersão de Dados da Alura**, utilizando **Python** para explorar, limpar, visualizar e criar um dashboard interativo com dados reais.
 
-Exploração e compreensão dos dados
+## 🚀 Tecnologias utilizadas
+- **Python 3**
+- **Pandas** → Manipulação e análise de dados
+- **Matplotlib** / **Seaborn** → Criação de gráficos
+- **Jupyter Notebook** → Ambiente interativo de desenvolvimento
+- **Plotly** / **Dash** → Dashboard interativo
 
-Limpeza e preparação dos dados
+## 📌 Etapas do projeto
+1. **Exploração de dados** → Análise inicial e entendimento do conjunto de dados
+2. **Limpeza e preparação** → Tratamento de valores ausentes, tipos de dados e outliers
+3. **Visualização** → Criação de gráficos para identificar padrões e tendências
+4. **Dashboard** → Implementação de um painel interativo para apresentação dos resultados
 
-Criação de visualizações informativas
+## 📂 Estrutura do repositório
+```
+📁 /
+ ├── notebooks/   → Notebooks Jupyter com as análises
+ ├── data/        → Conjunto de dados utilizado
+ ├── dashboard/   → Código do dashboard
+ └── README.md    → Documentação do projeto
+```
 
-Desenvolvimento de um dashboard interativo
+## 📷 Exemplos de visualizações
+*(Insira aqui capturas de tela dos gráficos e dashboard)*
 
-🛠️ Tecnologias Utilizadas
-Python 3.x
+## 🏆 Resultados e aprendizados
+Durante essa imersão, aprendi a:
+- Manipular dados com **Pandas**
+- Criar visualizações impactantes
+- Organizar fluxos de análise de dados
+- Construir dashboards interativos
 
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Plotly
-
-Streamlit
-
-📊 Dashboard
-O dashboard interativo permite a visualização dinâmica dos principais insights obtidos durante a análise. Ele inclui gráficos e filtros que facilitam a exploração dos dados por diferentes perspectivas.
-
-📌 Conclusão
-Este projeto proporcionou uma experiência prática em análise de dados, reforçando conhecimentos em manipulação de dados com Pandas, visualização com Matplotlib e Seaborn, e desenvolvimento de aplicações interativas com Streamlit.
-
+---
+✍️ **Autor:** Alessandro Tude da Rocha Oliveira
