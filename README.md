@@ -6,8 +6,8 @@ Este repositório contém o projeto desenvolvido durante a **Imersão de Dados d
 - **Python 3**
 - **Pandas** → Manipulação e análise de dados
 - **Matplotlib** / **Seaborn** → Criação de gráficos
-- **Jupyter Notebook** → Ambiente interativo de desenvolvimento
 - **Plotly** / **Dash** → Dashboard interativo
+- ** Google colab
 
 ## 📌 Etapas do projeto
 1. **Exploração de dados** → Análise inicial e entendimento do conjunto de dados
