@@ -15,15 +15,6 @@ Este repositório contém o projeto desenvolvido durante a **Imersão de Dados d
 3. **Visualização** → Criação de gráficos para identificar padrões e tendências
 4. **Dashboard** → Implementação de um painel interativo para apresentação dos resultados
 
-## 📂 Estrutura do repositório
-```
-📁 /
- ├── notebooks/   → Notebooks Jupyter com as análises
- ├── data/        → Conjunto de dados utilizado
- ├── dashboard/   → Código do dashboard
- └── README.md    → Documentação do projeto
-```
-
 ## 📷 Exemplos de visualizações
 *(Insira aqui capturas de tela dos gráficos e dashboard)*
 
@@ -33,6 +24,3 @@ Durante essa imersão, aprendi a:
 - Criar visualizações impactantes
 - Organizar fluxos de análise de dados
 - Construir dashboards interativos
-
----
-✍️ **Autor:** Alessandro Tude da Rocha Oliveira
